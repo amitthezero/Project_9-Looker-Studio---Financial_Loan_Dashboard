@@ -4,6 +4,9 @@
 
 Interactive **Financial Loan Analysis Dashboard** developed to monitor loan portfolio performance, credit risk, and bad-loan patterns.
 
+### Link : 
+https://datastudio.google.com/u/0/reporting/efe7ac84-3dbd-4ee5-843b-f09087ab2871/page/JaK9F
+
 ##  Key Business Questions
 
 - What is the overall loan portfolio size and bad-loan rate?
